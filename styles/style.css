@@ -100,3 +100,25 @@ p {
 .hamburger:focus{
     outline: 0;
 }
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.headshot-container {
+    display: flex;
+    align-items: center;
+}
+
+.headshot {
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+

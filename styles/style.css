@@ -163,5 +163,12 @@ hr {
     color: #ef744b;
 }
 
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
+
 
 
